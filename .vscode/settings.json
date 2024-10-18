@@ -1,0 +1,5 @@
+{
+  "jira-plugin.workingProject": "",
+  "cSpell.words": ["dotenv", "OPENAI"],
+  "python.analysis.extraPaths": ["./api/venv/app"]
+}
